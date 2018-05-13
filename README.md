@@ -1,9 +1,13 @@
 ## Informações Pessoais
-Brasileiro, solteiro, 20 anos
-São José de Ribamar - MA
-Telefone: (98) 98487-9582
-E-mail: edusvieirap@gmail.com
-github: github.com/euodeionomedeusuario
+Brasileiro, solteiro, 20 anos;
+
+São José de Ribamar - MA;
+
+Telefone: (98) 98487-9582;
+
+E-mail: edusvieirap@gmail.com;
+
+Github: github.com/euodeionomedeusuario;
 
 ## Formação Acadêmica
 Graduação em Ciência da Computação. Universidade Federal do Maranhão (UFMA), conclusão prevista para 2020;
