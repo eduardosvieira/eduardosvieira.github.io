@@ -7,7 +7,7 @@ Telefone: (98) 98487-9582;
 
 E-mail: edusvieirap@gmail.com;
 
-Github: github.com/euodeionomedeusuario;
+Github: github.com/eduardosveirap;
 
 ## Formação Acadêmica
 Graduação em Ciência da Computação. Universidade Federal do Maranhão (UFMA), conclusão prevista para 2020;
